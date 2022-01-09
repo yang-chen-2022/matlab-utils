@@ -1,6 +1,7 @@
 # matlab-utils
 Some utility matlab functions (you may need these for my other matlab projects)   
 
+Utitilies:  
   > ImFmtConvert - Convert an image to another format ('uint8' or 'uint16')  
   > dat2int - Set the data to an apropriate integer type to reduce the memory use  
   > findOffset3D - Find the 3D offset of a small 2D/3D image f relative to a large 3D image B (based on cross-correlation)  
@@ -32,5 +33,4 @@ To be moved to another repo (?):
   > XYZ2RTZ - FROM X-Y-Z COORDINATES (Image-Global) TO R-THETA-Z COORDINATES (Tube-Local)  
   > ind2indneighb - This function returns the voxel list of the input points neighbors (only for 3D application, 2D not yet availabel)  
   > ind2indneighb_p - Same functionality as "ind2indneighb" but extended to periodicity
-  > 
  
